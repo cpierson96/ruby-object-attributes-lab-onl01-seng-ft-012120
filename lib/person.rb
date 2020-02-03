@@ -1,3 +1,4 @@
 class Person
-def job
+def job=(persons_job)
+  
 end 
